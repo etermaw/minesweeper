@@ -1,4 +1,5 @@
 #include <windowsx.h>
+#include <stdbool.h>
 
 #include "dialogs.h"
 #include "resource.h"

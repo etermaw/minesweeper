@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
+#include <stdbool.h>
 #include "saves.h"
 
 void save_internal_state(game* g, game_params* p, const char* filename)

@@ -1,3 +1,4 @@
+#include <stdbool.h>
 #include "window.h"
 #include "resource.h"
 #include "dialogs.h"
